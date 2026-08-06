@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFF9EF"/>
+      <stop offset="1" stop-color="#F2EBDC"/>
+    </linearGradient>
+    <linearGradient id="sage" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3BAE80"/>
+      <stop offset="1" stop-color="#21805B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="400" rx="32" fill="url(#bg)"/>
+  <rect x="12" y="12" width="1176" height="376" rx="24" fill="none" stroke="#3BAE80" stroke-opacity="0.25" stroke-width="2"/>
+
+  <circle cx="1080" cy="60" r="200" fill="#3BAE80" opacity="0.10"/>
+  <circle cx="80" cy="380" r="240" fill="#F0BC52" opacity="0.14"/>
+  <circle cx="1080" cy="360" r="150" fill="#F0BC52" opacity="0.10"/>
+
+  <text x="600" y="150" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="58" font-weight="800" fill="#34405E">Abdul Haseeb Dar</text>
+  <text x="600" y="206" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="27" font-weight="500" fill="#5A6785">I build web apps people actually enjoy using.</text>
+
+  <g font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="22" font-weight="600">
+    <rect x="300" y="266" width="170" height="56" rx="28" fill="url(#sage)"/>
+    <text x="385" y="301" text-anchor="middle" fill="#ffffff">React</text>
+
+    <rect x="490" y="266" width="190" height="56" rx="28" fill="url(#sage)"/>
+    <text x="585" y="301" text-anchor="middle" fill="#ffffff">TypeScript</text>
+
+    <rect x="700" y="266" width="200" height="56" rx="28" fill="url(#sage)"/>
+    <text x="800" y="301" text-anchor="middle" fill="#ffffff">Supabase</text>
+  </g>
+
+  <text x="600" y="360" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="20" font-weight="400" fill="#8B93A7">Full-stack · TanStack · Tailwind · PostgreSQL · Vite</text>
+</svg>
