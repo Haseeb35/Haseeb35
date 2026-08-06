@@ -17,10 +17,10 @@
 <tr>
 <td width="60%">
 <div style="background:#eff6f2; border:1px solid #cfe6db; border-radius:14px; padding:16px 20px;">
-<b>🩺 <a href="https://github.com/Haseeb35/swift-appo-book">CareConnect</a></b> —
-Clinic appointment booking, minus the phone call. Real availability, doctor
-self-service, role-based access. Patients book in seconds; nobody has to "check the
-book and call you back."
+This week it's **[CareConnect](https://github.com/Haseeb35/swift-appo-book)** — clinic
+appointment booking, minus the phone call. But the project changes; the goal doesn't:
+take an idea from wireframe to a deployed product, design for the person actually
+using it, and ship. The name up front may change — this part won't.
 </div>
 </td>
 <td width="40%">
