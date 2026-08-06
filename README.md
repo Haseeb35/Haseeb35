@@ -40,7 +40,6 @@ Fix what's annoying. Repeat.
   <img src="https://img.shields.io/badge/TypeScript-34405e?style=for-the-badge&color=2fa878" alt="TypeScript">
   <img src="https://img.shields.io/badge/TanStack-34405e?style=for-the-badge&color=2fa878" alt="TanStack">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-34405e?style=for-the-badge&color=2fa878" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Supabase-34405e?style=for-the-badge&color=f0bc52" alt="Supabase">
   <img src="https://img.shields.io/badge/PostgreSQL-34405e?style=for-the-badge&color=f0bc52" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Node.js-34405e?style=for-the-badge&color=f0bc52" alt="Node.js">
   <img src="https://img.shields.io/badge/Vite-34405e?style=for-the-badge&color=2fa878" alt="Vite">
