@@ -36,13 +36,10 @@
 
 ### [CareConnect](https://github.com/Haseeb35/swift-appo-book)
 
-A modern clinic appointment booking platform — patients browse doctors, book slots in
-real time, and pay; doctors manage their own schedules; admins get a live overview.
-Built with **React 19 + TanStack Start + Supabase** and hardened with role-based
-security.
-
-> Originally scaffolded with Lovable, then further designed and developed into its
-> current form.
+The project I'm building as a full product — a clinic appointment booking platform with
+real accounts and roles, live availability, payments, and a proper database behind it.
+Originally scaffolded with Lovable, then redesigned and developed into its current form.
+It's still evolving, so this is more of a living project than a finished one.
 
 ---
 
