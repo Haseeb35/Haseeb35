@@ -21,14 +21,11 @@
   <text x="600" y="206" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="27" font-weight="500" fill="#5A6785">I build web apps people actually enjoy using.</text>
 
   <g font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="22" font-weight="600">
-    <rect x="300" y="266" width="170" height="56" rx="28" fill="url(#sage)"/>
-    <text x="385" y="301" text-anchor="middle" fill="#ffffff">React</text>
+    <rect x="401" y="266" width="170" height="56" rx="28" fill="url(#sage)"/>
+    <text x="486" y="301" text-anchor="middle" fill="#ffffff">React</text>
 
-    <rect x="490" y="266" width="190" height="56" rx="28" fill="url(#sage)"/>
-    <text x="585" y="301" text-anchor="middle" fill="#ffffff">TypeScript</text>
-
-    <rect x="700" y="266" width="200" height="56" rx="28" fill="url(#sage)"/>
-    <text x="800" y="301" text-anchor="middle" fill="#ffffff">Supabase</text>
+    <rect x="619" y="266" width="190" height="56" rx="28" fill="url(#sage)"/>
+    <text x="714" y="301" text-anchor="middle" fill="#ffffff">TypeScript</text>
   </g>
 
   <text x="600" y="360" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="20" font-weight="400" fill="#8B93A7">Full-stack · TanStack · Tailwind · PostgreSQL · Vite</text>
