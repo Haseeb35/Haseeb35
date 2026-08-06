@@ -46,15 +46,6 @@ security.
 
 ---
 
-## 📈 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haseeb35&show_icons=true&theme=tokyonight" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb35&layout=compact&theme=tokyonight" alt="Top languages">
-</p>
-
----
-
 ## 📫 Let's connect
 
 - GitHub — [github.com/Haseeb35](https://github.com/Haseeb35)
