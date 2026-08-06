@@ -87,7 +87,7 @@ Fix what's annoying. Repeat.
 ### 📬 Find me
 
 - GitHub — [github.com/Haseeb35](https://github.com/Haseeb35) (you're already here)
-- LinkedIn — [linkedin.com/in/haseeb-dar](https://www.linkedin.com/in/haseeb-dar-64280b3ab/)
+- LinkedIn — [linkedin.com/in/haseeb-dar](https://www.linkedin.com/in/haseeb-dar-64280b3ab/) (yes, it's really me — no, I don't post enough)
 - Always open to interesting projects, collabs, and a good coffee conversation.
 
 ---
