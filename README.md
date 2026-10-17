@@ -1,97 +1,87 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Abdul Haseeb Dar — full-stack and mobile developer in Islamabad. I build web and mobile apps that feel simple, look good, and solve a real problem." width="100%">
+</picture>
+
 <p align="center">
-  <img src="banner.svg" alt="Abdul Haseeb Dar — I build web apps people enjoy using" width="100%">
+  <a href="https://www.linkedin.com/in/haseeb-dar-64280b3ab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Based_in-Islamabad,_Pakistan-1F2937?style=flat-square" alt="Based in Islamabad, Pakistan">
+  <img src="https://img.shields.io/badge/Open_to-collaborations-16A34A?style=flat-square" alt="Open to collaborations">
 </p>
 
-<h2 align="center">Hi, I'm Abdul Haseeb Dar 👋</h2>
+## About me
 
-<p align="center">
-  Full-stack web developer. I take an idea from a wireframe to a deployed product —
-  and I have a healthy skepticism of phone trees and hold music.
-</p>
+I'm a full-stack and mobile developer. I take a product from the first sketch to something real people use, across the **web**, **Android** and **iOS**.
 
----
+- **Web apps** with React and TypeScript, from booking systems to dashboards.
+- **Mobile apps** in Java for Android, in Flutter, and as cross-platform apps with Capacitor.
+- **Data and devices:** IoT sensors, machine-learning forecasts and real-time dashboards.
 
-### 🔭 What I'm working on
+I care most about the person on the other side of the screen. The app should be clear and fast, and it should still work on a slow connection.
+
+## Featured projects
 
 <table>
-<tr>
-<td width="60%">
-<div style="background:#eff6f2; border:1px solid #cfe6db; border-radius:14px; padding:16px 20px;">
-This week it's **[CareConnect](https://github.com/Haseeb35/swift-appo-book)** — clinic
-appointment booking, minus the phone call. But the project changes; the goal doesn't:
-take an idea from wireframe to a deployed product, design for the person actually
-using it, and ship. The name up front may change — this part won't.
-</div>
-</td>
-<td width="40%">
-<div style="background:#fdf6e9; border:1px solid #f0e3c4; border-radius:14px; padding:16px 20px;">
-<b>⚡ The motto</b><br/>
-Build it simple. Ship it fast.<br/>
-Fix what's annoying. Repeat.
-</div>
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/cv-wala.svg" alt="CV Wala — a CV builder for job seekers in Pakistan. In development." width="100%">
+      <p align="center"><sub>Launching soon</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://swift-appo-book.lovable.app"><img src="assets/careconnect.svg" alt="CareConnect — clinic appointment booking. Live demo." width="100%"></a>
+      <p align="center"><a href="https://swift-appo-book.lovable.app">Live demo</a> · <a href="https://github.com/Haseeb35/swift-appo-book">Code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://haseeb35.github.io/Air-Quality-Management-System-/"><img src="assets/air-quality.svg" alt="Air Quality Management System — IoT and machine learning. Live demo." width="100%"></a>
+      <p align="center"><a href="https://haseeb35.github.io/Air-Quality-Management-System-/">Live demo</a> · <a href="https://github.com/Haseeb35/Air-Quality-Management-System-">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://haseeb35.github.io/Shadow-Game/"><img src="assets/shadow-game.svg" alt="Shadow Game — a puzzle-platformer. Play now." width="100%"></a>
+      <p align="center"><a href="https://haseeb35.github.io/Shadow-Game/">Play</a> · <a href="https://github.com/Haseeb35/Shadow-Game">Code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://haseeb35.github.io/Focus-Dashboard/"><img src="assets/focus-dashboard.svg" alt="Focus Dashboard — a deep-work workspace. Live demo." width="100%"></a>
+      <p align="center"><a href="https://haseeb35.github.io/Focus-Dashboard/">Live demo</a> · <a href="https://github.com/Haseeb35/Focus-Dashboard">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://haseeb35.github.io/Mood-Arcade-Stress-Relief-/"><img src="assets/mood-arcade.svg" alt="Mood Arcade — calming mini-games. Live demo." width="100%"></a>
+      <p align="center"><a href="https://haseeb35.github.io/Mood-Arcade-Stress-Relief-/">Live demo</a> · <a href="https://github.com/Haseeb35/Mood-Arcade-Stress-Relief-">Code</a></p>
+    </td>
+  </tr>
 </table>
 
-### 🧰 The toolkit
+## Tech I work with
 
 <p>
-  <img src="https://img.shields.io/badge/React-34405e?style=for-the-badge&color=2fa878" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-34405e?style=for-the-badge&color=2fa878" alt="TypeScript">
-  <img src="https://img.shields.io/badge/TanStack-34405e?style=for-the-badge&color=2fa878" alt="TanStack">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-34405e?style=for-the-badge&color=2fa878" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/PostgreSQL-34405e?style=for-the-badge&color=f0bc52" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Node.js-34405e?style=for-the-badge&color=f0bc52" alt="Node.js">
-  <img src="https://img.shields.io/badge/Vite-34405e?style=for-the-badge&color=2fa878" alt="Vite">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,express,postgres&perline=10" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vite, Node.js, Express, PostgreSQL">
+  <br>
+  <img src="https://skillicons.dev/icons?i=firebase,java,androidstudio,flutter,dart,python,arduino,solidity,git,github&perline=10" alt="Firebase, Java, Android, Flutter, Dart, Python, Arduino, Solidity, Git, GitHub">
 </p>
 
-### 😅 The truth about me
+| Area | What I use |
+|---|---|
+| **Frontend** | React, TypeScript, TanStack, Tailwind CSS, Vite |
+| **Backend and data** | Node.js, Express, PostgreSQL, Firebase |
+| **Mobile** | Android (Java), Flutter (Dart), Capacitor for iOS and Android |
+| **Also** | Python, Arduino and IoT sensors, machine learning for forecasting, Solidity |
+
+## How I work
 
 <table>
-<tr>
-<td>
-<div style="background:#fff; border:1px solid #e4e4e4; border-radius:14px; padding:14px 16px; text-align:center;">
-<b>🎨</b><br/><b>Design-first</b><br/><span style="color:#5a6785;">I care about the small UX details that make software feel good to use.</span>
-</div>
-</td>
-<td>
-<div style="background:#fff; border:1px solid #e4e4e4; border-radius:14px; padding:14px 16px; text-align:center;">
-<b>🛠</b><br/><b>Boring on purpose</b><br/><span style="color:#5a6785;">Reliable beats clever. Boring code is good code.</span>
-</div>
-</td>
-<td>
-<div style="background:#fff; border:1px solid #e4e4e4; border-radius:14px; padding:14px 16px; text-align:center;">
-<b>🧪</b><br/><b>Tests win</b><br/><span style="color:#5a6785;">If it compiles, it can still be wrong. That's what tests are for.</span>
-</div>
-</td>
-</tr>
-<tr>
-<td>
-<div style="background:#fff; border:1px solid #e4e4e4; border-radius:14px; padding:14px 16px; text-align:center;">
-<b>😅</b><br/><b>Learning loudly</b><br/><span style="color:#5a6785;">I once said "how hard can a booking system be?" It was, in fact, hard.</span>
-</div>
-</td>
-<td>
-<div style="background:#fff; border:1px solid #e4e4e4; border-radius:14px; padding:14px 16px; text-align:center;">
-<b>☕</b><br/><b>Caffeine-loaded</b><br/><span style="color:#5a6785;">Shipping relies on a healthy ratio of coffee to code.</span>
-</div>
-</td>
-<td>
-<div style="background:#fff; border:1px solid #e4e4e4; border-radius:14px; padding:14px 16px; text-align:center;">
-<b>🚀</b><br/><b>Shipping things</b><br/><span style="color:#5a6785;">A polished project in the wild beats a perfect one in a folder.</span>
-</div>
-</td>
-</tr>
+  <tr>
+    <td width="25%" valign="top"><b>Design first</b><br><sub>The small details are what make software feel good to use.</sub></td>
+    <td width="25%" valign="top"><b>Simple and reliable</b><br><sub>Clear code that's easy to change beats clever code.</sub></td>
+    <td width="25%" valign="top"><b>Tested</b><br><sub>The important rules have tests, so changes don't break them.</sub></td>
+    <td width="25%" valign="top"><b>Shipped</b><br><sub>A finished project people can use beats a perfect one in a folder.</sub></td>
+  </tr>
 </table>
 
-### 📬 Find me
+## Let's connect
 
-- GitHub — [github.com/Haseeb35](https://github.com/Haseeb35) (you're already here)
-- LinkedIn — [linkedin.com/in/haseeb-dar](https://www.linkedin.com/in/haseeb-dar-64280b3ab/) (yes, it's really me — no, I don't post enough)
-- Always open to interesting projects, collabs, and a good coffee conversation.
+I'm open to freelance work and collaborations. The best way to reach me is **[LinkedIn](https://www.linkedin.com/in/haseeb-dar-64280b3ab/)**.
 
----
-
-<p align="center">
-  <i>Built with ☕, React, and way too much curiosity about how things work.</i>
-</p>
+<p align="center"><sub>Islamabad, Pakistan · Building things people actually use.</sub></p>

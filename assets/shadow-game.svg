@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="270" viewBox="0 0 540 270" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title>Shadow Game — A puzzle-platformer where your only ally is who you were two seconds ago. Hand-built levels, no libraries — pure JavaScript and the Canvas API.</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0F1729"/><stop offset="1" stop-color="#0A101E"/></linearGradient>
+    <radialGradient id="glow" cx="1" cy="0" r="0.9"><stop offset="0" stop-color="#F43F5E" stop-opacity="0.32"/><stop offset="1" stop-color="#F43F5E" stop-opacity="0"/></radialGradient>
+    <linearGradient id="icon" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F43F5E"/><stop offset="1" stop-color="#A855F7"/></linearGradient>
+    <clipPath id="c"><rect width="540" height="270" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="540" height="270" fill="url(#bg)"/>
+    <rect width="540" height="270" fill="url(#glow)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="539" height="269" rx="20" fill="none" stroke="#FFFFFF" stroke-opacity="0.09"/>
+  <rect x="32" y="30" width="48" height="48" rx="13" fill="url(#icon)"/>
+  <g transform="translate(44,42)" fill="none" stroke="#FFFFFF" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" color="#FFFFFF"><circle cx="9" cy="10" r="4.5"/><circle cx="15.5" cy="13.5" r="4.5" stroke-dasharray="2 2.2"/><path d="M5 21h14"/></g>
+  <text x="96" y="52" font-size="23" font-weight="750" letter-spacing="-0.4" fill="#F4F6FB">Shadow Game</text>
+  <text x="96" y="73" font-size="13.5" font-weight="500" fill="#7D8AA3">Puzzle-platformer</text>
+  <g transform="translate(414.8,36)">
+    <rect width="93.2" height="28" rx="14" fill="#22C55E" fill-opacity="0.12" stroke="#22C55E" stroke-opacity="0.35"/>
+    <circle cx="15" cy="14" r="4" fill="#22C55E"/>
+    <text x="26" y="18.5" font-size="12.5" font-weight="650" fill="#86EFAC">Play now</text>
+  </g>
+  <text x="32" y="120" font-size="17" fill="#AAB5C8">A puzzle-platformer where your only ally is who</text>
+  <text x="32" y="146" font-size="17" fill="#AAB5C8">you were two seconds ago. Hand-built levels, no</text>
+  <text x="32" y="172" font-size="17" fill="#AAB5C8">libraries — pure JavaScript and the Canvas API.</text>
+  <g transform="translate(32,212)"><rect width="100" height="28" rx="14" fill="#F43F5E" fill-opacity="0.13" stroke="#F43F5E" stroke-opacity="0.35"/><text x="50" y="18.5" text-anchor="middle" font-size="13" font-weight="600" fill="#FDA4AF">JavaScript</text></g>
+  <g transform="translate(140,212)"><rect width="69.6" height="28" rx="14" fill="#F43F5E" fill-opacity="0.13" stroke="#F43F5E" stroke-opacity="0.35"/><text x="34.8" y="18.5" text-anchor="middle" font-size="13" font-weight="600" fill="#FDA4AF">Canvas</text></g>
+  <g transform="translate(217.6,212)"><rect width="107.6" height="28" rx="14" fill="#F43F5E" fill-opacity="0.13" stroke="#F43F5E" stroke-opacity="0.35"/><text x="53.8" y="18.5" text-anchor="middle" font-size="13" font-weight="600" fill="#FDA4AF">Game design</text></g>
+</svg>
