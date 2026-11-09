@@ -48,8 +48,8 @@ I care most about the person on the other side of the screen. The app should be 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/cv-wala.svg" alt="CV Wala — a CV builder for job seekers in Pakistan. In development." width="100%">
-      <p align="center"><sub>Launching soon</sub></p>
+      <a href="https://github.com/Haseeb35/Cv-Wala-"><img src="assets/cv-wala.svg" alt="CV Wala — a CV builder for job seekers in Pakistan. In development, open source." width="100%"></a>
+      <p align="center"><a href="https://github.com/Haseeb35/Cv-Wala-">Code</a> · <sub>launching soon</sub></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://swift-appo-book.lovable.app"><img src="assets/careconnect.svg" alt="CareConnect — clinic appointment booking. Live demo." width="100%"></a>
