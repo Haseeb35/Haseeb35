@@ -28,6 +28,26 @@ I care most about the person on the other side of the screen. The app should be 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://haseeb35.github.io/nook/"><img src="assets/nook.svg" alt="Nook — a lo-fi focus room: a Pomodoro timer you control by touching an illustrated room. Live demo." width="100%"></a>
+      <p align="center"><a href="https://haseeb35.github.io/nook/">Live demo</a> · <a href="https://github.com/Haseeb35/nook">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Haseeb35/Meshly"><img src="assets/meshly.svg" alt="Meshly — an off-grid, end-to-end encrypted messenger over Bluetooth for Android and iOS. Open source." width="100%"></a>
+      <p align="center"><a href="https://github.com/Haseeb35/Meshly">Code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Haseeb35/Tilawave"><img src="assets/tilawave.svg" alt="Tilawave — prayer times, Qibla compass and the Holy Quran with translations, tafsir and recitation. Open source." width="100%"></a>
+      <p align="center"><a href="https://github.com/Haseeb35/Tilawave">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Haseeb35/QR-STUDIO-"><img src="assets/qr-studio.svg" alt="QR Studio — a QR code maker and checker that runs entirely in the browser. Open source." width="100%"></a>
+      <p align="center"><a href="https://github.com/Haseeb35/QR-STUDIO-">Code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <img src="assets/cv-wala.svg" alt="CV Wala — a CV builder for job seekers in Pakistan. In development." width="100%">
       <p align="center"><sub>Launching soon</sub></p>
     </td>

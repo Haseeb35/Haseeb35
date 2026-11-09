@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="270" viewBox="0 0 540 270" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title>Meshly — Message anyone nearby with no internet, no SIM and no servers: end-to-end encrypted chats over Bluetooth, behind a retro hacker-terminal look.</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0F1729"/><stop offset="1" stop-color="#0A101E"/></linearGradient>
+    <radialGradient id="glow" cx="1" cy="0" r="0.9"><stop offset="0" stop-color="#84CC16" stop-opacity="0.32"/><stop offset="1" stop-color="#84CC16" stop-opacity="0"/></radialGradient>
+    <linearGradient id="icon" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#84CC16"/><stop offset="1" stop-color="#10B981"/></linearGradient>
+    <clipPath id="c"><rect width="540" height="270" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="540" height="270" fill="url(#bg)"/>
+    <rect width="540" height="270" fill="url(#glow)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="539" height="269" rx="20" fill="none" stroke="#FFFFFF" stroke-opacity="0.09"/>
+  <rect x="32" y="30" width="48" height="48" rx="13" fill="url(#icon)"/>
+  <g transform="translate(44,42)" fill="none" stroke="#FFFFFF" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" color="#FFFFFF"><circle cx="12" cy="13" r="1.6" fill="currentColor"/><path d="M8.5 9.5a5 5 0 0 0 0 7M15.5 9.5a5 5 0 0 1 0 7M5.6 6.6a9 9 0 0 0 0 12.8M18.4 6.6a9 9 0 0 1 0 12.8"/></g>
+  <text x="96" y="52" font-size="23" font-weight="750" letter-spacing="-0.4" fill="#F4F6FB">Meshly</text>
+  <text x="96" y="73" font-size="13.5" font-weight="500" fill="#7D8AA3">Off-grid messenger · Android · iOS</text>
+  <g transform="translate(393.0,36)">
+    <rect width="115.0" height="28" rx="14" fill="#94A3B8" fill-opacity="0.12" stroke="#94A3B8" stroke-opacity="0.35"/>
+    <circle cx="15" cy="14" r="4" fill="#94A3B8"/>
+    <text x="26" y="18.5" font-size="12.5" font-weight="650" fill="#CBD5E1">Open source</text>
+  </g>
+  <text x="32" y="120" font-size="17" fill="#AAB5C8">Message anyone nearby with no internet, no SIM</text>
+  <text x="32" y="146" font-size="17" fill="#AAB5C8">and no servers: end-to-end encrypted chats over</text>
+  <text x="32" y="172" font-size="17" fill="#AAB5C8">Bluetooth, behind a retro hacker-terminal look.</text>
+  <g transform="translate(32.0,212)"><rect width="115.2" height="28" rx="14" fill="#84CC16" fill-opacity="0.13" stroke="#84CC16" stroke-opacity="0.35"/><text x="57.6" y="18.5" text-anchor="middle" font-size="13" font-weight="600" fill="#D9F99D">React Native</text></g>
+  <g transform="translate(155.2,212)"><rect width="54.4" height="28" rx="14" fill="#84CC16" fill-opacity="0.13" stroke="#84CC16" stroke-opacity="0.35"/><text x="27.2" y="18.5" text-anchor="middle" font-size="13" font-weight="600" fill="#D9F99D">Expo</text></g>
+  <g transform="translate(217.6,212)"><rect width="100.0" height="28" rx="14" fill="#84CC16" fill-opacity="0.13" stroke="#84CC16" stroke-opacity="0.35"/><text x="50.0" y="18.5" text-anchor="middle" font-size="13" font-weight="600" fill="#D9F99D">TypeScript</text></g>
+  <g transform="translate(325.6,212)"><rect width="115.2" height="28" rx="14" fill="#84CC16" fill-opacity="0.13" stroke="#84CC16" stroke-opacity="0.35"/><text x="57.6" y="18.5" text-anchor="middle" font-size="13" font-weight="600" fill="#D9F99D">Bluetooth LE</text></g>
+</svg>
