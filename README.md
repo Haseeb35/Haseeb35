@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/dragon.gif" alt="A small pixel-art dragon flapping its wings and breathing a puff of fire" width="256" height="200">
+  <img src="assets/night-flight.gif" alt="A pixel-art dragon flies over clouds under the stars and moon, breathing fire that writes HASEEB" width="640" height="248">
 </p>
 
 <picture>
