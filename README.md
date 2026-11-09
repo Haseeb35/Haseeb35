@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/night-flight.gif" alt="A pixel-art rider on a dragon flies over clouds under the stars and moon, the dragon breathing fire that writes HASEEB" width="640" height="248">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/night-flight.gif">
+    <img src="assets/day-flight.gif" alt="A pixel-art rider on a dragon flies over the clouds, the dragon breathing fire that writes HASEEB" width="640" height="248">
+  </picture>
 </p>
 
 <picture>
