@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/dragon.gif" alt="A small pixel-art dragon flapping its wings and breathing a puff of fire" width="256" height="200">
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <img src="assets/banner-light.svg" alt="Abdul Haseeb Dar — full-stack and mobile developer in Islamabad. I build web and mobile apps that feel simple, look good, and solve a real problem." width="100%">
